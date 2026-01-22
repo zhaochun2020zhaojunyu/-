@@ -1,0 +1,5 @@
+{
+  "name": "3D Card Sphere Gallery",
+  "description": "A sophisticated interactive 3D sphere gallery featuring smooth rotation, inertia, and focal card highlighting with detail views.",
+  "requestFramePermissions": []
+}
